@@ -56,3 +56,10 @@ body {
   padding: 0 23px 0 23px;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 15px;
+  width: 100%;
+  background-color: var(--Light-gray);
+}
